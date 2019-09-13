@@ -1,0 +1,3 @@
+set("HUNTER_INSTALL_LICENSE_FILES" "googletest/LICENSE" CACHE INTERNAL "")
+set("BUILD_GMOCK" "OFF" CACHE INTERNAL "")
+set("gtest_force_shared_crt" "ON" CACHE INTERNAL "")
